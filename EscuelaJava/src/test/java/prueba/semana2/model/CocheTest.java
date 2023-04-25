@@ -41,6 +41,10 @@ public class CocheTest {
 	@After
 	public void tearDown() throws Exception {
 	}
+	
+	/**
+	 * Es test comprueba que el valor de la id del coche almazenado en la base de datos es igual 1
+	 */
 
 	@Test
 	public void test() {
